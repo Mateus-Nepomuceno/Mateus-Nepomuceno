@@ -39,6 +39,6 @@
 <hr>
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Mateus-Nepomuceno&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=github_dark"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=Mateus-Nepomuceno&layout=compact&hide_border=true&bg_color=0d1117&theme=github_dark"/>
+  <img width="51%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Mateus-Nepomuceno&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=github_dark"/> 
+  <img width="47%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=Mateus-Nepomuceno&layout=compact&hide_border=true&bg_color=0d1117&theme=github_dark"/>
 </div>
