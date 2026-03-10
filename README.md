@@ -34,5 +34,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<hr>
+
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Mateus-Nepomuceno&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=github_dark"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=Mateus-Nepomuceno&layout=compact&hide_border=true&bg_color=0d1117&theme=github_dark"/>
 </div>
